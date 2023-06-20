@@ -1,6 +1,12 @@
-### Hi there 👋
+
+Olá! Sou Yhagor, um aprendiz apaixonado e entusiasta do mundo da tecnologia e inovação e sempre ansioso para colaborar em projetos interessantes.
+
+Você pode entrar em contato comigo através do meu [linkedin.](https://www.linkedin.com/in/yhagor-j-messias)
+
+Vamos nos conectar e trabalhar juntos em algo incrível!
 
 <!--
+### Hi there 👋
 **yhagor/yhagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
