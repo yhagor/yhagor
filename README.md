@@ -4,15 +4,48 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">Olá! 
+<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">Hello! 
 
-Sou um entusiasta e apaixonado pelo mundo da tecnologia e inovação, sempre ansioso para colaborar em projetos interessantes.
+I am an enthusiast and passionate about the world of technology and innovation, always eager to collaborate on interesting projects.
 
-Como desenvolvedor de software, estou constantemente buscando aprender e aprimorar minhas habilidades. Minha paixão por criar soluções eficientes e funcionais me impulsiona a enfrentar novos desafios.
+As a software developer, I am constantly seeking to learn and enhance my skills. My passion for creating efficient and functional solutions drives me to take on new challenges.
 
-Estou aberto a oportunidades de colaboração e adoraria trabalhar em projetos empolgantes. Se você está procurando um parceiro comprometido e motivado, não hesite em entrar em contato.
+I am open to collaboration opportunities and would love to work on exciting projects.
 
-Vamos nos conectar e juntos criar algo incrível!
+Let's connect and together create something incredible!
+
+<h3> :rocket: &nbsp;Skills</h3>
+
+![Linux Badge](https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=black)
+![Git Badge](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=E34F26)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+![Shell Script Badge](https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=shell&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
+
+![Pandas Badge](https://img.shields.io/badge/Pandas_-_Python_Data_Analysis_Library-333333?style=flat&logo=pandas&logoColor=150458)
+![Scikit learn Badge](https://img.shields.io/badge/Scikit_Learn-333333?style=flat&logo=scikitlearn&logoColor=F7931E)
+![Numpy Badge](https://img.shields.io/badge/Numpy-333333?style=flat&logo=numpy&logoColor=white)
+![SQLite Badge](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
+
+![Argparse Badge](https://img.shields.io/badge/Argparse-333333?style=flat)
+![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-333333?style=flat)
+![PyQt Badge](https://img.shields.io/badge/PyQt-333333?style=flat)
+![QT Designer Badge](https://img.shields.io/badge/QT_Designer-333333?style=flat)
+
+![Software development Badge](https://img.shields.io/badge/Software_Development-333333?style=flat)
+![Process automation Badge](https://img.shields.io/badge/Process_Automation-333333?style=flat)
+![Object Oriented Programming Badge](https://img.shields.io/badge/Object_Oriented_Programming-333333?style=flat)
+![Information Technology Badge](https://img.shields.io/badge/Information_Technology-333333?style=flat)
+![Debug Badge](https://img.shields.io/badge/Debug-333333?style=flat)
+
+**Development Tools** 
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+
+
 
 
 
